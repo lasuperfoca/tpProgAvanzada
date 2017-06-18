@@ -1,0 +1,8 @@
+﻿  ListaSimple.cpp
+c:\users\ar034388\documents\visual studio 2017\projects\caeceprogavanzada\caeceprogavanzada\listasimple.cpp(180): warning C4474: "printf": se pasaron demasiados argumentos para la cadena de formato
+  c:\users\ar034388\documents\visual studio 2017\projects\caeceprogavanzada\caeceprogavanzada\listasimple.cpp(180): note: los marcadores de posición y sus parámetros esperan 1 argumentos variádicos, pero se proporcionaron 2
+c:\users\ar034388\documents\visual studio 2017\projects\caeceprogavanzada\caeceprogavanzada\listasimple.cpp(172): warning C4101: 'LAux': variable local sin referencia
+c:\users\ar034388\documents\visual studio 2017\projects\caeceprogavanzada\caeceprogavanzada\listasimple.cpp(171): warning C4101: 'Text': variable local sin referencia
+c:\users\ar034388\documents\visual studio 2017\projects\caeceprogavanzada\caeceprogavanzada\listasimple.cpp(176): warning C4700: se utilizó la variable local 'Flag' sin inicializar
+  CAECEProgAvanzada.vcxproj -> c:\users\ar034388\documents\visual studio 2017\Projects\CAECEProgAvanzada\Debug\CAECEProgAvanzada.exe
+  CAECEProgAvanzada.vcxproj -> c:\users\ar034388\documents\visual studio 2017\Projects\CAECEProgAvanzada\Debug\CAECEProgAvanzada.pdb (Partial PDB)

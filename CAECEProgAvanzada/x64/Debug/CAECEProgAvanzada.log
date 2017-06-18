@@ -1,0 +1,13 @@
+﻿  BusquedasAlg.cpp
+c:\users\ar034388\documents\visual studio 2017\projects\caeceprogavanzada\caeceprogavanzada\busquedasalg.cpp(260): warning C4101: 'cAux': variable local sin referencia
+c:\users\ar034388\documents\visual studio 2017\projects\caeceprogavanzada\caeceprogavanzada\busquedasalg.cpp(262): warning C4101: 'iAux': variable local sin referencia
+c:\users\ar034388\documents\visual studio 2017\projects\caeceprogavanzada\caeceprogavanzada\busquedasalg.cpp(39): warning C4715: 'bus_SecuencialLS': no todas las rutas de acceso de control devuelven un valor
+c:\users\ar034388\documents\visual studio 2017\projects\caeceprogavanzada\caeceprogavanzada\busquedasalg.cpp(23): warning C4700: se utilizó la variable local 'cE' sin inicializar
+c:\users\ar034388\documents\visual studio 2017\projects\caeceprogavanzada\caeceprogavanzada\busquedasalg.cpp(75): warning C4715: 'bus_SecuencialLD': no todas las rutas de acceso de control devuelven un valor
+c:\users\ar034388\documents\visual studio 2017\projects\caeceprogavanzada\caeceprogavanzada\busquedasalg.cpp(59): warning C4700: se utilizó la variable local 'cE' sin inicializar
+c:\users\ar034388\documents\visual studio 2017\projects\caeceprogavanzada\caeceprogavanzada\busquedasalg.cpp(92): warning C4700: se utilizó la variable local 'cE' sin inicializar
+c:\users\ar034388\documents\visual studio 2017\projects\caeceprogavanzada\caeceprogavanzada\busquedasalg.cpp(152): warning C4700: se utilizó la variable local 'cE' sin inicializar
+c:\users\ar034388\documents\visual studio 2017\projects\caeceprogavanzada\caeceprogavanzada\busquedasalg.cpp(217): warning C4700: se utilizó la variable local 'cE' sin inicializar
+c:\users\ar034388\documents\visual studio 2017\projects\caeceprogavanzada\caeceprogavanzada\busquedasalg.cpp(305): warning C4700: se utilizó la variable local 'cE' sin inicializar
+  CAECEProgAvanzada.vcxproj -> C:\Users\ar034388\Documents\Visual Studio 2017\Projects\CAECEProgAvanzada\x64\Debug\CAECEProgAvanzada.exe
+  CAECEProgAvanzada.vcxproj -> C:\Users\ar034388\Documents\Visual Studio 2017\Projects\CAECEProgAvanzada\x64\Debug\CAECEProgAvanzada.pdb (Partial PDB)
